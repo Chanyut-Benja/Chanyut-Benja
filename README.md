@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Chanyut Benjapalakorn
+  # Chanyut Benjapalakorn
 
   [![Typing SQL](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C03&center=true&vCenter=true&width=500&height=40&lines=IT+%26+Multimedia+Student+at+KMITL;3D+Generalist+%26+Game+Developer;Backend+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
